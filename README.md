@@ -1,5 +1,5 @@
 # KB-Collection
-Public KB article collection for anyone and everyone. To be foot page for all IT professionals 
+Public KB article collection for anyone and everyone. To be the go to page for all IT professionals 
 
 ### Goal ###
 
